@@ -1,0 +1,148 @@
+[
+  {
+    "CategoryName": "Milk",
+    "name": "Cow milk",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.Xf3TxNl9_8vS4v30Ef5QhwHaEo&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "130",
+        "full": "220"
+      }
+    ],
+    "description": "Pure cow milk."
+  },
+  {
+    "CategoryName": "Milk",
+    "name": "Milkshake",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.6RPu_ZHvKhZXnhlSrC37PAHaDt&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "110",
+        "full": "200"
+      }
+    ],
+    "description": "Made from pure milkshake."
+  },
+  {
+    "CategoryName": "Milk",
+    "name": "Butter",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.zCIGDkjB11z7U2KmbPn4WQHaE8&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "200",
+        "full": "320"
+      }
+    ],
+    "description": "Delight and tasty butter"
+  },
+  {
+    "CategoryName": "Milk",
+    "name": "Milk powder",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.PO6q1Qt2BxbG-L9e2t2gEQHaGm&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "170",
+        "full": "300"
+      }
+    ],
+    "description": "100% pure and tasty delight icecream. "
+  },
+  {
+    "CategoryName": "Milk",
+    "name": "Ghee",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.E1DaMQ4ICX8sBanuaifUjQHaLH&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "150",
+        "full": "260"
+      }
+    ],
+    "description": "Cow milk pure Ghee"
+  },
+  {
+    "CategoryName": "Milk",
+    "name": "Badam Shake",
+    "img": "https://i.ytimg.com/vi/e9y9DdjY8cI/maxresdefault.jpg",
+    "options": [
+      {
+        "half": "120",
+        "full": "220"
+      }
+    ],
+    "description": "Wonderful summer drink that is not only delightful but also rich in protein and essential nutrients."
+  },
+  {
+    "CategoryName": "Sweets",
+    "name": "Rasmalai",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.UwPBMgbTP9jUGmfgxNLvoQHaFU&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "120",
+        "full": "200"
+      }
+    ],
+    "description": "Spongy soft cheese dumplings that are cooked in sugar syrup."
+  },
+  {
+    "CategoryName": "Sweets",
+    "name": "Rasgulla",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.NaVYrjpyVgigjQ42JyvU9QHaEH&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "150",
+        "full": "260"
+      }
+    ],
+    "description": " Milk based sweet made by curdling milk."
+  },
+  {
+    "CategoryName": "Sweets",
+    "name": "Milk cake",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.hgaTqX1nisiIXFwSyNRCbQHaEK&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "170",
+        "full": "300"
+      }
+    ],
+    "description": "Milk Cake, or Alwar Ka Mawa is an Indian Mithai Recipe, popular across India, loved by all. "
+  },
+  {
+    "CategoryName": "Icecream",
+    "name": "Cup icecream",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.sgzjwTb7c5MzoFllBm9MYgHaGA&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "half": "170",
+        "full": "250"
+      }
+    ],
+    "description": "Cup Real Ice Cream for those who believe in pure Ice Cream. "
+  },
+  {
+    "CategoryName": "Icecream",
+    "name": "Vanilla Icecream",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.UwUXYifYkWihUREA3n9kXQHaL9&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "regular": "120",
+        "medium": "230",
+        "large": "350"
+      }
+    ],
+    "description": " Making vanilla ice cream Then add whisked cornstarch thickened milk to the whipped cream."
+  },
+  {
+    "CategoryName": "Icecream",
+    "name": "Butter Scotch",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.OQU8y_7GNqFlFCd6-4LWyQHaGA&pid=Api&P=0&h=180",
+    "options": [
+      {
+        "regular": "100",
+        "medium": "200",
+        "large": "300"
+      }
+    ],
+    "description": "No-churn Indian Butterscotch Ice Cream with swirls of crunchy praline is made with only few ingredients."
+  }
+]
